@@ -1,0 +1,36 @@
+console.llog('person1:show tickets');
+console.llog('person2:show tickets');
+
+const perMovie = async() => {
+
+const getPopcorn new Promise((resolve, reject) resolve('popcorn`));
+
+const addButter = new Promise((resolve, reject) => resolve("butter"));
+
+let ticket = await promiseWifeBringingTicks;
+
+console.log('wife: i have the S{F}): 
+console.log('husband; we should go in'); 
+console.log('wife: no i am hungry');
+
+let popcorn = await getPopcorn;
+
+console.log( husband: i got some ${popcorn}); 
+console.log(husband: we should go in ); 
+console. Log wife: I need butter on my popcorn');
+
+let butter await addButter:
+
+console.log('husband: i got some $[butter) on popcorn"); 
+console.log(husband: anything else darling?"); 
+console.log(husband: thank you for the reminder grins");
+console.log('wife: lets got we are getting late');
+
+return ticket;
+
+}
+
+preMovie().then(()-> console.log(m));
+
+console.log('person4: shows ticket'); 
+console.log('person5: shows ticket');
